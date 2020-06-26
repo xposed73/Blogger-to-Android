@@ -12,9 +12,9 @@ public class Constants {
 
 }
 ```
-*BLOGGER API KEY* 
+*[BLOGGER API KEY]* 
 https://developers.google.com/blogger/docs/3.0/using
 
-*BLOG ID* 
+*[BLOG ID]* 
 https://www.blogger.com/blog/posts/xxxxxxxxxxxxxxxxxxxxx
 
